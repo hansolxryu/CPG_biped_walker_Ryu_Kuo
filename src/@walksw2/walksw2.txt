@@ -1,0 +1,1 @@
+WALKSW2 is a simple 2-d walking model with a point mass representing the pelvis and torso, and two massless legs with a point mass at each foot. The kinematics are described by stance leg angle defined relative to the vertical, and the swing leg angle defined relative to the stance leg.

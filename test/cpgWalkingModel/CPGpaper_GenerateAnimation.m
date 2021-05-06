@@ -7,7 +7,7 @@
 
 addpath(fullfile(pwd,'..\..\src'))
 
-load('result191219_PC_afterStepLenghChange.mat');
+load('result_Reference.mat');
 % load conditions used for paper analysis 
 
 maxTrial = 1;
